@@ -3,6 +3,6 @@ Practicing implementing a variety of data pipelines
 
 - Webscraping tabular data off wikipedia for the F1 2022 season.
 - Data validation with flags and custom exceptions
-- Experimenting with the exoplanets data set from seaborn
+- [Experimenting with the exoplanets data set from seaborn](https://github.com/Pova/Data-pipelines-practice/blob/main/Data%20pipelines%20-%20Exoplanets.ipynb)
 - ETL with a covid-19 dataset from John Hopkins
 - Parsing website visitor logs
