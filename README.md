@@ -1,7 +1,7 @@
 # Data pipelines practice
-###Practicing implementing a variety of data pipelines using python
+### Practicing implementing a variety of data pipelines using python
 
-**Jupyter notebooks:
+**Jupyter notebooks:**
 
 - [Webscraping tabular data off wikipedia for the F1 2022 season](https://github.com/Pova/Data-pipelines-practice/blob/main/Data%20pipelines%20-%20Data%20Collection.ipynb)
 - [Data validation with flags and custom exceptions](https://github.com/Pova/Data-pipelines-practice/blob/main/Data%20pipelines%20-%20Data%20Validation.ipynb)
